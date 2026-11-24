@@ -19,6 +19,7 @@ Tests cover: DROP/DELETE/UPDATE/INSERT/ALTER/PRAGMA/ATTACH blocked, stacked stat
 Standard library only.
 
 ## Demo and try it
+- **Live app, no install:** https://pavan-sql-guard.streamlit.app (free hosting, may take a few seconds to wake up)
 - Demo video with voiceover (45 s): [demo/demo.mp4](demo/demo.mp4)
 - Run the Streamlit app yourself on any machine with Python 3.10+:
 
